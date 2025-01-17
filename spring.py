@@ -1,4 +1,4 @@
-# Blocksrey
+# jskinnerd
 
 from math import cos, sin, pow, sqrt, e
 
